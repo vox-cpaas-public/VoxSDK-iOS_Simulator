@@ -1,2 +1,2 @@
-# VoxSDK_iOS_Simulator
+# VoxSDK_Simulator
 VoxSDK for iOS Simulator.
